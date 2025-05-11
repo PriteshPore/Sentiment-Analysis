@@ -1,0 +1,7 @@
+transformers
+streamlit
+tf-keras
+torch 
+torchvision
+torchaudio
+
